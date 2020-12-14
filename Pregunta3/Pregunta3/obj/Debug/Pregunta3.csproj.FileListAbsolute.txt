@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\Pregunta3\Pregunta3\bin\Debug\Pregunta3.exe.config
+C:\Users\pc\source\repos\Pregunta3\Pregunta3\bin\Debug\Pregunta3.exe
+C:\Users\pc\source\repos\Pregunta3\Pregunta3\bin\Debug\Pregunta3.pdb
+C:\Users\pc\source\repos\Pregunta3\Pregunta3\obj\Debug\Pregunta3.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Pregunta3\Pregunta3\obj\Debug\Pregunta3.Properties.Resources.resources
+C:\Users\pc\source\repos\Pregunta3\Pregunta3\obj\Debug\Pregunta3.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Pregunta3\Pregunta3\obj\Debug\Pregunta3.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Pregunta3\Pregunta3\obj\Debug\Pregunta3.exe
+C:\Users\pc\source\repos\Pregunta3\Pregunta3\obj\Debug\Pregunta3.pdb
+C:\Users\pc\source\repos\Pregunta3\Pregunta3\obj\Debug\Pregunta3.Form1.resources
